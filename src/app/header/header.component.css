@@ -1,0 +1,24 @@
+.header{
+   width: 100%;
+   background-color: rgb(231, 59, 59);
+   border-bottom:solid 1px #060009df ;
+}
+
+.menu{
+   margin: 0px;
+   padding: px;
+   display:flex;
+   list-style: none;
+   align-items: center;
+   align-content: center;
+   justify-content: space-between;
+}
+.logo{
+   height: 2rem;
+}
+
+.menu li {
+   font-weight: 600;
+   padding: 5px;
+   text-align: center;
+}
